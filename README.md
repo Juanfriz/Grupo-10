@@ -10,7 +10,7 @@ Milenka Zambrano.
 
 Erick Bravo
 
-##Sensores ocupados:
+## Sensores ocupados:
 
 Sensor de temperatura y humedad RAK1901 WisBlock(Implementado y funcionale)
 
