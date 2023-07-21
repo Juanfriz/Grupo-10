@@ -14,4 +14,7 @@ Erick Bravo.<erick.bravo@ug.uchile.cl>
 
 Sensor de temperatura y humedad RAK1901 WisBlock(Implementado y funcionale)
 
-sensor PIR WisBlock RAK12006 (No implementado pero si instalado)
+Sensor PIR WisBlock RAK12006 (No implementado pero si instalado)
+
+## Placa basa:
+Placa base RAK19001 WisBlock Dual IO
