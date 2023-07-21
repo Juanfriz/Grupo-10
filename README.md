@@ -6,9 +6,9 @@
 
 Juan Hurtado.<juan.hurtadoc@ug.uchile.cl>
 
-Milenka Zambrano.
+Milenka Zambrano.<milenka.zambrano@ug.uchile.cl>
 
-Erick Bravo
+Erick Bravo.<erick.bravo@ug.uchile.cl>
 
 ## Sensores ocupados:
 
