@@ -3,6 +3,6 @@
 
 
 Grupo 10:
-Juan Hurtado.<juan.hurtadoc@ug.uchile.cl>\\\
-Milenka Zambrano.
+Juan Hurtado.<juan.hurtadoc@ug.uchile.cl>\\
+Milenka Zambrano.\\
 Erick Bravo
